@@ -1,0 +1,24 @@
+{
+  "name": "github-user-activity",
+  "version": "1.0.0",
+  "description": "CLI to display a GitHub user's recent public activity (roadmap.sh challenge).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maderana/Git_show_user_activity.git"
+  },
+  "keywords": [
+    "github",
+    "cli",
+    "activity"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
