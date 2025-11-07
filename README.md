@@ -10,7 +10,7 @@ Requirements
 
 Quick start
 1. Open a terminal in the project folder:
-   cd g:\abhi\personal_projects\Git_show_user_activity
+   cd \Git_show_user_activity
 2. Run:
    node index.js <github-username>
 
@@ -32,3 +32,4 @@ Notes
 Optional: add a package.json to provide an npm start script
 
 - Create `package.json` and run `npm start` instead of calling node directly (example below).
+
